@@ -1,0 +1,31 @@
+Place_ID,Place_Name,Category,District,Rating,Budget,Travel_Distance,would_recommend
+1,Ooty,Hill Station,Nilgiris,5,3000,150,Yes
+2,Kodaikanal,Hill Station,Dindigul,5,3500,180,Yes
+3,Yercaud,Hill Station,Salem,4,2000,120,Yes
+4,Yelagiri,Hill Station,Tirupattur,4,1500,100,Yes
+5,Marina Beach,Beach,Chennai,5,500,20,Yes
+6,Elliots Beach,Beach,Chennai,4,300,15,Yes
+7,Mahabalipuram,Historical,Chengalpattu,5,1500,60,Yes
+8,Pondicherry,Beach,Puducherry,5,3500,180,Yes
+9,Thanjavur Big Temple,Historical,Thanjavur,5,2000,120,Yes
+10,Madurai Meenakshi Temple,Religious,Madurai,5,1500,90,Yes
+11,Rameswaram,Religious,Ramanathapuram,5,2500,250,Yes
+12,Kanyakumari,Beach,Kanyakumari,5,3000,400,Yes
+13,Courtallam Falls,Nature,Tenkasi,5,1800,220,Yes
+14,Hogenakkal Falls,Nature,Dharmapuri,4,1500,180,Yes
+15,Mudumalai,Wildlife,Nilgiris,5,4500,300,Yes
+16,Anamalai Tiger Reserve,Wildlife,Coimbatore,5,5000,320,Yes
+17,Topslip,Wildlife,Coimbatore,4,3000,250,Yes
+18,Velankanni,Religious,Nagapattinam,5,2500,220,Yes
+19,Nagore Dargah,Religious,Nagapattinam,4,1500,220,Yes
+20,Valluvar Kottam,Historical,Chennai,3,500,10,No
+21,Local Park,Nature,Trichy,2,200,5,No
+22,Small Lake,Nature,Karur,2,300,10,No
+23,Zoo,Wildlife,Vandalur,3,700,30,No
+24,Water Park,Entertainment,Coimbatore,4,1800,50,Yes
+25,Black Thunder,Entertainment,Coimbatore,5,2500,80,Yes
+26,ISKCON Temple,Religious,Chennai,4,1000,20,Yes
+27,Brihadeeswarar Temple,Historical,Thanjavur,5,1500,120,Yes
+28,Gingee Fort,Historical,Villupuram,4,1800,150,Yes
+29,Chettinad Palace,Historical,Sivagangai,4,2500,200,Yes
+30,Pichavaram Mangrove,Nature,Cuddalore,5,2200,180,Yes
